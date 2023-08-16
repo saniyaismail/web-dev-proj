@@ -1,0 +1,12 @@
+VIDEO BACKGROUND -- 
+  video tag -
+    the video tag is used to embed video content in a document, it cointains a <source> subtag 
+    which can contain one or more sources, the browser will display the first source it 
+    supports
+  video tag attributes -
+    autoplay - Video plays as soon as it is ready.
+    loop - Video runs in loop.
+    muted - the output of the video is muted.
+    poster - display an image until the video is loading or until the user hits the play button.
+
+  
